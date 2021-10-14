@@ -1,3 +1,3 @@
-FROM node:lts-buster-slim
+FROM node:16.10
 
 RUN apt-get install -y imagemagick
